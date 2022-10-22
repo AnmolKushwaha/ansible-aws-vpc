@@ -24,7 +24,7 @@
         region: "{{region}}"
         az: "{{zone1}}"
         state: "{{state}}"
-        cidr_block: "{{PubSub1Cidr}}"
+        cidr: "{{PubSub1Cidr}}"
         map_public: yes
         resourse_tags:
           Name: vproflie_pubsub1

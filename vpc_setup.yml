@@ -26,6 +26,6 @@
         state: "{{state}}"
         cidr_block: "{{PubSub1Cidr}}"
         map_public: yes
-        resoure_tags:
+        resourse_tags:
           Name: vproflie_pubsub1
       register: pubsub1_put
